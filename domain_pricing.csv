@@ -1,0 +1,71 @@
+registrar,extension,registration_price,renewal_price,currency,renewal_jump_pct,source_url,collection_date,notes
+GoDaddy,.com,13.39,23.19,USD,73.2,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own guide lists a 0.01 first-year promo (3-year purchase required) and 22.99 renewal; Nov 2 snapshot shows 13.39/23.19.
+GoDaddy,.net,15.19,25.19,USD,65.8,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own guide lists 24.99 renewal; Nov 2 snapshot shows 25.19.
+GoDaddy,.org,10.19,24.19,USD,137.4,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own guide lists 9.99 first year and 23.99 renewal; Nov 2 snapshot shows 10.19/24.19.
+GoDaddy,.co,59.99,59.99,USD,0.0,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own guide lists a 51.99 standard annual fee (May 2026); Nov 2 snapshot shows 59.99.
+GoDaddy,.io,59.99,89.99,USD,50.0,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,
+GoDaddy,.ai,104.99,159.99,USD,52.4,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,
+GoDaddy,.dev,16.19,24.19,USD,49.4,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,
+GoDaddy,.xyz,2.19,26.19,USD,1095.9,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own guide lists a 23.99 standard annual fee; Nov 2 snapshot shows 2.19 first year and 26.19 renewal.
+GoDaddy,.pk,,,USD,,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,NOT FOUND: GoDaddy does not sell .pk names.
+GoDaddy,.com.pk,,,USD,,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,NOT FOUND: GoDaddy does not sell .com.pk names.
+Namecheap,.com,12.08,19.98,USD,65.4,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot. Another tracker showed 18.68 renewal on Oct 20 rising to 20.18 on Nov 1; verify at checkout.
+Namecheap,.net,12.48,18.58,USD,48.9,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot.
+Namecheap,.org,8.48,18.98,USD,123.8,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot.
+Namecheap,.co,19.98,45.48,USD,127.6,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot.
+Namecheap,.io,29.98,75.98,USD,153.4,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot.
+Namecheap,.ai,89.98,114.98,USD,27.8,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot. 2-year minimum term applies.
+Namecheap,.dev,10.98,20.98,USD,91.1,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot.
+Namecheap,.xyz,2.0,21.48,USD,974.0,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,Own page blocks automated reads; figure from Nov 2 snapshot.
+Namecheap,.pk,,,USD,,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,NOT FOUND: Namecheap does not sell .pk names.
+Namecheap,.com.pk,,,USD,,https://tldspy.com/compare/godaddy-vs-namecheap,2026-11-02,NOT FOUND: Namecheap does not sell .com.pk names.
+Porkbun,.com,11.81,11.81,USD,0.0,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match).
+Porkbun,.net,12.52,12.52,USD,0.0,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match).
+Porkbun,.org,7.98,11.84,USD,48.4,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,Own price list shows a short-term 6.98 first-year sale; 7.98 standard first year and 11.84 renewal from Nov 2 snapshot.
+Porkbun,.co,15.76,31.2,USD,98.0,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match).
+Porkbun,.io,28.12,51.8,USD,84.2,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match).
+Porkbun,.ai,82.7,82.7,USD,0.0,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match). 2-year minimum term applies.
+Porkbun,.dev,8.75,12.87,USD,47.1,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match).
+Porkbun,.xyz,2.04,14.21,USD,596.6,https://porkbun.com/products/domains,2026-11-02,Own price list; figure cross-checked against Nov 2 snapshot (match).
+Porkbun,.pk,,,USD,,https://porkbun.com/products/domains,2026-11-02,NOT FOUND: Porkbun does not sell .pk names.
+Porkbun,.com.pk,,,USD,,https://porkbun.com/products/domains,2026-11-02,NOT FOUND: Porkbun does not sell .com.pk names.
+Dynadot,.com,11.62,11.62,USD,0.0,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.net,12.52,12.52,USD,0.0,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.org,7.99,11.64,USD,45.7,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.co,15.5,31.2,USD,101.3,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.io,28.89,53.5,USD,85.2,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.ai,85.6,85.6,USD,0.0,http://www.dynadot.com/domain/,2026-11-02,Own price list page. 2-year minimum term applies.
+Dynadot,.dev,8.0,12.5,USD,56.2,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.xyz,1.99,14.45,USD,626.1,http://www.dynadot.com/domain/,2026-11-02,Own price list page.
+Dynadot,.pk,,,USD,,http://www.dynadot.com/domain/,2026-11-02,NOT FOUND: Dynadot does not sell .pk names.
+Dynadot,.com.pk,,,USD,,http://www.dynadot.com/domain/,2026-11-02,NOT FOUND: Dynadot does not sell .com.pk names.
+Cloudflare,.com,11.17,11.17,USD,0.0,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,"At-cost pricing (registry wholesale plus ICANN fee, no markup). Own pages block automated reads; figure from Nov 2 snapshot."
+Cloudflare,.net,11.86,11.86,USD,0.0,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,At-cost pricing. Own pages block automated reads; figure from Nov 2 snapshot.
+Cloudflare,.org,8.5,11.2,USD,31.8,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,At-cost pricing; first year reflects a registry promotion passed through. Own pages block automated reads; figure from Nov 2 snapshot.
+Cloudflare,.co,30.0,30.0,USD,0.0,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,At-cost pricing. Own pages block automated reads; figure from Nov 2 snapshot.
+Cloudflare,.io,32.0,50.0,USD,56.2,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,At-cost pricing. Own pages block automated reads; figure from Nov 2 snapshot.
+Cloudflare,.ai,160.0,80.0,USD,-50.0,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,"Registration figure is the 2-year minimum term total (80.00 per year); renewal is 80.00 per year. Jump computed on listed figures is -50.0 percent and is an artifact of the 2-year term, not a price cut."
+Cloudflare,.dev,8.2,12.2,USD,48.8,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,At-cost pricing. Own pages block automated reads; figure from Nov 2 snapshot.
+Cloudflare,.xyz,12.3,11.2,USD,-8.9,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,At-cost pricing; renewal below first year because registry promotions pass through. Own pages block automated reads; figure from Nov 2 snapshot.
+Cloudflare,.pk,,,USD,,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,NOT FOUND: Cloudflare does not sell .pk names.
+Cloudflare,.com.pk,,,USD,,https://tldspy.com/compare/cloudflare-vs-porkbun,2026-11-02,NOT FOUND: Cloudflare does not sell .com.pk names.
+PK Hosting,.com,3762,3762,PKR,0.0,https://www.pkhosting.com/domains/,2026-11-02,"Own domains page. Flat price, no renewal jump."
+PK Hosting,.net,4265,4265,PKR,0.0,https://www.pkhosting.com/domains/,2026-11-02,"Own domains page. Flat price, no renewal jump."
+PK Hosting,.org,3956,4028,PKR,1.8,https://www.pkhosting.com/domains/,2026-11-02,Own domains page.
+PK Hosting,.pk,5460,5460,PKR,0.0,https://www.pkhosting.com/domains/,2026-11-02,"Own domains page. Price is for a 2-year term. Flat price, no renewal jump."
+PK Hosting,.com.pk,5460,5460,PKR,0.0,https://www.pkhosting.com/domains/,2026-11-02,"Own domains page. Price is for a 2-year term. Flat price, no renewal jump."
+PK Hosting,.io,17981,17981,PKR,0.0,https://www.pkhosting.com/domains/,2026-11-02,"Own domains page. Flat price, no renewal jump."
+PK Hosting,.co,5394,10788,PKR,100.0,https://www.pkhosting.com/domains/,2026-11-02,Own domains page. Renewal is double the first-year price.
+PK Hosting,.xyz,4783,4855,PKR,1.5,https://www.pkhosting.com/domains/,2026-11-02,Own domains page.
+PK Hosting,.ai,,,PKR,,https://www.pkhosting.com/domains/,2026-11-02,NOT FOUND: no .ai price shown in PK Hosting published price lists fetched 2 Nov 2026.
+PK Hosting,.dev,,,PKR,,https://www.pkhosting.com/domains/,2026-11-02,NOT FOUND: no .dev price shown in PK Hosting published price lists fetched 2 Nov 2026.
+PK Domain,.com,3429,3429,PKR,0.0,https://pkdomain.com.pk/registration.html,2026-11-02,"Own registration page. Same price at renewal (site states cheap renewal, same price)."
+PK Domain,.pk,4149,4149,PKR,0.0,https://pkdomain.com.pk/registration.html,2026-11-02,Own registration page. Price is for a 2-year term. Same price at renewal.
+PK Domain,.com.pk,4149,4149,PKR,0.0,https://pkdomain.com.pk/registration.html,2026-11-02,Own registration page. Price is for a 2-year term. Same price at renewal.
+PK Domain,.net,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
+PK Domain,.org,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
+PK Domain,.io,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
+PK Domain,.co,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
+PK Domain,.ai,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
+PK Domain,.dev,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
+PK Domain,.xyz,,,PKR,,https://pkdomain.com.pk/registration.html,2026-11-02,NOT FOUND: not in PK Domain published price list.
